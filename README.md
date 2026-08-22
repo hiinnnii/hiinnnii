@@ -13,18 +13,18 @@ AI · Computer Vision · Multimodal Learning
 
 ### ⭐ External Awards
 
-| Date | Award | Result | Organization |
+| Date | Competition / Conference | Award | Organizer |
 |---|---|---|---|
-| 2023.11 | 한국인공지능학회 추계 학술대회 | 🏆 우수 발표 논문상 | 한국인공지능학회 |
-| 2024.09 | 2024 춘천 AWS 딥레이서 챔피언십 | 🥉 장려상 | 강원정보문화산업진흥원 · AWS |
-| 2024.11 | 2024 인공지능 교육 및 경진대회 | 🥇 대상 | 인공지능기술교육협의회 · Microsoft |
+| 2023.11 | Fall Conference of the Korean Artificial Intelligence Association | 🏆 Best Presentation Paper Award | Korean Artificial Intelligence Association |
+| 2024.09 | 2024 Chuncheon AWS DeepRacer Championship | 🥉 Encouragement Award | Gangwon Information & Multimedia Corporation · AWS |
+| 2024.11 | 2024 Artificial Intelligence Education & Competition | 🥇 Grand Prize | AI Technology Education Council · Microsoft Korea |
 
 ### 🏫 University Awards
 
-| Date | Award | Result |
-|---|---|---|
-| 2024.01 | AWS 딥레이서 오프라인 대회 | 🥇 최우수상 |
-| 2024.10 | 제16회 캡스톤 디자인 경진대회 | 🥉 장려상 |
+| Date | Competition | Award | Organizer |
+|---|---|---|---|
+| 2024.01 | AWS DeepRacer Offline Competition | 🥇 Excellence Award | College of AI & Software |
+| 2024.10 | 16th Capstone Design Competition | 🥉 Encouragement Award | Konyang University |
 
 <br/>
 
@@ -32,10 +32,10 @@ AI · Computer Vision · Multimodal Learning
 
 | Year | Conference | Paper | Role |
 |---|---|---|---|
-| 2023 | 한국인공지능학회 추계 학술대회 | 다단계 뇌파인식을 사용한 뇌파 신호 시각화 솔루션에 관한 연구 | 3rd Author |
-| 2023 | 한국인공지능학회 추계 학술대회 | 식물 단면 현미경 영상을 이용한 인공지능 기반 토양 산성도 분류 | **1st Author** |
-| 2024 | 한국인공지능학회 추계 학술대회 | 경량화 알고리즘에 따른 UNet 기반 균열 탐지 | **1st Author** |
-| 2025 | 한국소프트웨어공학학술대회 | 흑백 이미지 복원을 위한 Stable Diffusion 및 GAN 기반 하이브리드 프레임워크 | **1st Author** |
+| 2023 | Fall Conference of the Korean Artificial Intelligence Association | A Study on EEG Signal Visualization Using Multi-stage EEG Recognition | 3rd Author |
+| 2023 | Fall Conference of the Korean Artificial Intelligence Association | AI-based Soil Acidity Classification Using Microscopic Images of Plant Cross-sections | **1st Author** |
+| 2024 | Fall Conference of the Korean Artificial Intelligence Association | UNet-based Crack Detection According to Lightweight Algorithms | **1st Author** |
+| 2025 | Korea Conference on Software Engineering | Hybrid Framework Based on Stable Diffusion and GAN for Grayscale Image Restoration | **1st Author** |
 
 <br/>
 
