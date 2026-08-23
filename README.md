@@ -1,9 +1,29 @@
-<p align="left">
-  <img src="./image.gif" width="50" alt="cat">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1D7AF7&width=260&height=45&lines=Hyein+Park"
-      alt="Typing SVG"
-    >
-  </a>
-</p>
+# Hyein Park
+
+Computer Vision Researcher  
+`Object Detection` · `Segmentation` · `3D Talking Head Generation`
+
+---
+
+## Research Interests
+
+Computer Vision, Object Detection, Segmentation,  
+3D Talking Head Generation, Multimodal Learning
+
+## Awards
+
+**Master's**
+- Award Name — 2026
+
+**Undergraduate**
+- Award Name — 2026
+
+## International Conferences
+
+- **Paper Title**  
+  Conference Name, 2026
+
+## Domestic Conferences
+
+- **Paper Title**  
+  Conference Name, 2026
